@@ -4,7 +4,7 @@
 
 ## Storybook
 
-[Storybook](https://65072b692164c6766d60a0ef-bzlfmhkzvp.chromatic.com/)
+[Storybook](https://65072b692164c6766d60a0ef-miyunqhgtv.chromatic.com/?path=/docs/navigation-tabs--docs)
 
 <br/>
 
@@ -114,13 +114,11 @@ function App() {
 - `align` (string | ResponsiveStyleType<T>): Determine how to vertically align
 - `justify` (string | ResponsiveStyleType<T>): Decide how to horizontally align
 
-| props |               type               |              description              | default |
-| :---: | :------------------------------: | :-----------------------------------: | :-----: |
-|  tag  |           ElementType            |       HTML Tag를 지정하는 속성        |   div   |
-| align | string \| ResponsiveStyleType<T> | 자기 자신의 수직 정렬을 지정하는 속성 | stretch |
-
-| justify?:
-| string \| ResponsiveStyleType<T> | 자기 자신의 수평 정렬을 지정하는 속성 | stretch |
+|  props  |               type               |              description              | default |
+| :-----: | :------------------------------: | :-----------------------------------: | :-----: |
+|   tag   |           ElementType            |       HTML Tag를 지정하는 속성        |   div   |
+|  align  | string \| ResponsiveStyleType<T> | 자기 자신의 수직 정렬을 지정하는 속성 | stretch |
+| justify | string \| ResponsiveStyleType<T> | 자기 자신의 수평 정렬을 지정하는 속성 | stretch |
 
 ### 사용 예시
 
